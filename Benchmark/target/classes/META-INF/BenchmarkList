@@ -1,0 +1,2 @@
+JMH S 24 benchmarks.TestBenchmark S 61 benchmarks.jmh_generated.TestBenchmark_testarComRegex_jmhTest S 14 testarComRegex S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
+JMH S 24 benchmarks.TestBenchmark S 58 benchmarks.jmh_generated.TestBenchmark_testarNaMao_jmhTest S 11 testarNaMao S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
