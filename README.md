@@ -49,7 +49,7 @@ Nada de:
 
 ## Tópicos (em construção)
 
-- [Threads](./threads.md) - Entendendo IO-Bound vs CPU-Bound
+- [Threads](Threads/Threads.md) - Entendendo IO-Bound vs CPU-Bound
 - [Benchmark](Benchmark/Benchmark.md) - Medindo performance de verdade
 - *(mais coisas vindo por aí. O livro é gigante)*
 
