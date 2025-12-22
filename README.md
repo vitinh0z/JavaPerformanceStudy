@@ -50,7 +50,7 @@ Nada de:
 ## Tópicos (em construção)
 
 - [Threads](./threads.md) - Entendendo IO-Bound vs CPU-Bound
-- [Benchmark](./benchmark.md) - Medindo performance de verdade
+- [Benchmark](Benchmark/Benchmark.md) - Medindo performance de verdade
 - *(mais coisas vindo por aí. O livro é gigante)*
 
 ---
@@ -105,7 +105,7 @@ Aprender é o objetivo.
 🏢 Editora: O'Reilly Media
 
 Se puder, compra o livro. O cara sabe muito.
-(me chama no LinkdIn que fala como pegar ele baratinho (piscadinha)
+(me chama no LinkdIn que falo como pegar ele baratinho (piscadinha)
 
 ---
 
