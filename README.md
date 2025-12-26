@@ -51,7 +51,7 @@ Nada de:
 
 - [Threads](Threads/Threads.md) - Entendendo IO-Bound vs CPU-Bound
 - [Microbenchmark](Benchmark/Microbenchmark.md) - Medindo performance de uma parte do codigo
-- [Macrobenchmark](Macrobenchmark/MacroBenchmark.md) - Medindo a performance do sistema
+- [Macrobenchmark](MacroBenchmark/MacroBenchmark.md) - Medindo a performance do sistema
 - *(mais coisas vindo por aí. O livro é gigante)*
 
 ---
