@@ -1,4 +1,4 @@
-package benchmarks;
+package benchmarks.loops;
 
 public class loops {
 }

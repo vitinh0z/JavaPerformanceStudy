@@ -1,4 +1,4 @@
-package PACKAGE_NAME;
+package visualizarGC;
 
-public class visualizarGarbageCollector {
+public class VisualizarGarbageCollector {
 }
