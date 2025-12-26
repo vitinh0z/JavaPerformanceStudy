@@ -16,7 +16,10 @@ export let options = {
     },
 };
 
+
 export default function() {
+
+    // Teste endpoint rapido
     let res1 = http.get('http://localhost:8080/api/rapida');
     check(res1, {
         'rapido status 200': (r) => r.status === 200,
@@ -35,6 +38,7 @@ export default function() {
     sleep(1);
 
 
+    // Teste Endpoint Pesado
     let res3 = http.get('http://localhost:8080/api/pesada');
     check(res3, {
         'lento status 200': (r) => r.status === 200,
