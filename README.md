@@ -50,7 +50,8 @@ Nada de:
 ## Tópicos (em construção)
 
 - [Threads](Threads/Threads.md) - Entendendo IO-Bound vs CPU-Bound
-- [Benchmark](Benchmark/Benchmark.md) - Medindo performance de verdade
+- [Microbenchmark](Benchmark/Microbenchmark.md) - Medindo performance de uma parte do codigo
+- [Macrobenchmark](Macrobenchmark/MacroBenchmark.md) - Medindo a performance do sistema
 - *(mais coisas vindo por aí. O livro é gigante)*
 
 ---
