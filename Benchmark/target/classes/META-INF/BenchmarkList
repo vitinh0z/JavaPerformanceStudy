@@ -1,2 +1,8 @@
 JMH S 24 benchmarks.TestBenchmark S 61 benchmarks.jmh_generated.TestBenchmark_testarComRegex_jmhTest S 14 testarComRegex S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
 JMH S 24 benchmarks.TestBenchmark S 58 benchmarks.jmh_generated.TestBenchmark_testarNaMao_jmhTest S 11 testarNaMao S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
+JMH S 22 benchmarks.loops.loops S 55 benchmarks.loops.jmh_generated.loops_LoopComFor_jmhTest S 10 LoopComFor S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
+JMH S 22 benchmarks.loops.loops S 57 benchmarks.loops.jmh_generated.loops_LoopComWhile_jmhTest S 12 LoopComWhile S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
+JMH S 22 benchmarks.loops.loops S 59 benchmarks.loops.jmh_generated.loops_loopComForEach_jmhTest S 14 loopComForEach S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
+JMH S 22 benchmarks.loops.loops S 58 benchmarks.loops.jmh_generated.loops_loopComStream_jmhTest S 13 loopComStream S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
+JMH S 52 benchmarks.stringVSConcatenacao.StringVSConcatenacao S 94 benchmarks.stringVSConcatenacao.jmh_generated.StringVSConcatenacao_concatenarComString_jmhTest S 19 concatenarComString S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
+JMH S 52 benchmarks.stringVSConcatenacao.StringVSConcatenacao S 95 benchmarks.stringVSConcatenacao.jmh_generated.StringVSConcatenacao_concaternarComString_jmhTest S 20 concaternarComString S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 

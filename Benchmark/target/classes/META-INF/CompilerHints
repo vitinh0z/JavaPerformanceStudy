@@ -3,5 +3,8 @@ dontinline,*.*_avgt_jmhStub
 dontinline,*.*_sample_jmhStub
 dontinline,*.*_ss_jmhStub
 dontinline,*.*_thrpt_jmhStub
-inline,benchmarks/TestBenchmark.testarComRegex
-inline,benchmarks/TestBenchmark.testarNaMao
+inline,benchmarks/loops/loops.LoopComFor
+inline,benchmarks/loops/loops.LoopComWhile
+inline,benchmarks/loops/loops.loopComForEach
+inline,benchmarks/loops/loops.loopComStream
+inline,benchmarks/loops/loops.setup
